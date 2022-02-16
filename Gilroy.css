@@ -27,7 +27,7 @@
 		url('Gilroy-BoldItalic.eot?#iefix') format('embedded-opentype'),
 		url('Gilroy-BoldItalic.woff') format('woff'),
 		url('Gilroy-BoldItalic.ttf') format('truetype');
-	font-weight: bold;
+	font-weight: 600;
 	font-style: italic;
 }
 
@@ -137,7 +137,7 @@
 		url('Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
 		url('Gilroy-Bold.woff') format('woff'),
 		url('Gilroy-Bold.ttf') format('truetype');
-	font-weight: bold;
+	font-weight: 600;
 	font-style: normal;
 }
 
