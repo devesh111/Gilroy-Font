@@ -1,26 +1,5 @@
 @font-face {
 	font-family: 'Gilroy';
-	src: url('font/Gilroy-Black.eot');
-	src: local('Gilroy Black'), local('Gilroy-Black'),
-		url('font/Gilroy-Black.eot?#iefix') format('embedded-opentype'),
-		url('font/Gilroy-Black.woff') format('woff'),
-		url('font/Gilroy-Black.ttf') format('truetype');
-	font-weight: 900;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Gilroy';
-	src: url('font/Gilroy-BlackItalic.eot');
-	src: local('Gilroy Black Italic'), local('Gilroy-BlackItalic'),
-		url('font/Gilroy-BlackItalic.eot?#iefix') format('embedded-opentype'),
-		url('font/Gilroy-BlackItalic.woff') format('woff'),
-		url('font/Gilroy-BlackItalic.ttf') format('truetype');
-	font-weight: 900;
-	font-style: italic;
-}
-@font-face {
-	font-family: 'Gilroy';
 	src: url('Gilroy-Extrabold.eot');
 	src: local('Gilroy Extrabold'), local('Gilroy-Extrabold'),
 		url('Gilroy-Extrabold.eot?#iefix') format('embedded-opentype'),
