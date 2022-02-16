@@ -38,7 +38,7 @@
 		url('Gilroy-Semibold.eot?#iefix') format('embedded-opentype'),
 		url('Gilroy-Semibold.woff') format('woff'),
 		url('Gilroy-Semibold.ttf') format('truetype');
-	font-weight: 600;
+	font-weight: 700;
 	font-style: normal;
 }
 
@@ -115,7 +115,7 @@
 		url('Gilroy-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
 		url('Gilroy-SemiboldItalic.woff') format('woff'),
 		url('Gilroy-SemiboldItalic.ttf') format('truetype');
-	font-weight: 600;
+	font-weight: 700;
 	font-style: italic;
 }
 
